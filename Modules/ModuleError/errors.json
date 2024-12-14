@@ -1,0 +1,13 @@
+{
+    Errors {
+        0xB1 {
+            message Produto não localizado em 'configloader.cpp'. Verifique o arquivo.
+        },
+        0x05 {
+            message Banco de dados não encontrado em 'SQLUTIL.cpp'.
+        },
+        0xA1 {
+            message Falha ao carregar a configuração. Verifique as permissões de arquivo.
+        }
+    }
+}
