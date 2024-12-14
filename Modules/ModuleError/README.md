@@ -11,9 +11,7 @@ Além disso, é necessário incluir a biblioteca `nlohmann/json` no diretório `
 
 ## Passos para Compilação
 
-1. Coloque o arquivo `json.hpp` da biblioteca `nlohmann/json` na pasta `include` do seu projeto. Você pode baixar o arquivo diretamente do [repositório oficial do GitHub](https://github.com/nlohmann/json).
-
-2. Execute os seguintes comandos para gerar e compilar o projeto:
+1. Execute os seguintes comandos para gerar e compilar o projeto:
 
    Abra o terminal na raiz do projeto e execute:
 
