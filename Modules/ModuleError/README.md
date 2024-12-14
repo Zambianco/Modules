@@ -4,7 +4,7 @@ Para compilar este projeto, siga os passos abaixo:
 
 ## Pré-requisitos
 
-1. **MinGW**: Certifique-se de ter o [MinGW](https://mingw-w64.org/doku.php) instalado em sua máquina.
+1. **MinGW**: Certifique-se de ter o MinGW instalado em sua máquina.
 2. **CMake**: Baixe e instale o [CMake](https://cmake.org/download/).
 
 Além disso, é necessário incluir a biblioteca `nlohmann/json` no diretório `include` do seu projeto.
