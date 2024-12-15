@@ -1,0 +1,20 @@
+{
+    "0x1A": {
+        "codigo": "0x1A",
+        "gravidade": "Alta",
+        "titulo": "Erro de Inicialização",
+        "descricao": "O módulo não conseguiu ser inicializado.",
+        "informacao": "Verifique se as configurações estão corretas.",
+        "detalhe": "Pode ser causado por falta de memória ou configuração inválida.",
+        "mensagens": ["Erro ao inicializar o módulo.", "Configuração inválida."]
+    },
+    "0x2B": {
+        "codigo": "0x2B",
+        "gravidade": "Média",
+        "titulo": "Erro de Conexão",
+        "descricao": "Falha ao conectar ao recurso solicitado.",
+        "informacao": "Certifique-se de que o recurso está disponível e acessível.",
+        "detalhe": "Pode ser causado por falha na rede ou permissões insuficientes.",
+        "mensagens": ["Conexão falhou.", "Recurso indisponível."]
+    }
+}
